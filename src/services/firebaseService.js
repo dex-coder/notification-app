@@ -39,13 +39,12 @@
 import firebase from 'firebase';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDqb2OJvwup9AlTTMVWlP7KiSEXMiy2mGk",
-    authDomain: "notificationapp-54b09.firebaseapp.com",
-    databaseURL: "https://notificationapp-54b09.firebaseio.com",
-    projectId: "notificationapp-54b09",
-    storageBucket: "notificationapp-54b09.appspot.com",
-    messagingSenderId: "97986726135",
-    appId: "1:97986726135:web:a2fedc0b07d1975f07abf2"
+    apiKey: "AIzaSyAPZilmx-qzzq_yBX3E5ZOvrKkQ2up4bOs",
+    authDomain: "notificationapp-8d819.firebaseapp.com",
+    projectId: "notificationapp-8d819",
+    storageBucket: "notificationapp-8d819.appspot.com",
+    messagingSenderId: "1061976089456",
+    appId: "1:1061976089456:web:e74fed44cd89e2369c25b5"
   };
 
   firebase.initializeApp(firebaseConfig);
